@@ -24,6 +24,7 @@ and let modify the threshold to select the corresponding keypoints in the images
 
 Example of 3D reconstruction output viewed in [MeshLab](http://www.meshlab.net/#description).
 
-
-
+   <p align="center">
+   <img src="https://i.postimg.cc/nrX7JYpB/piano.png">
+   </p>
 
